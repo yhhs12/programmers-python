@@ -7,3 +7,4 @@ if t == str(k): // 꺼낸 t가 문자열k와 같으면
 answer += 1 //answer에 1을 추가한다.
 
     return answer
+![k의 개수](https://user-images.githubusercontent.com/124108940/227778694-7e017898-70bb-49f8-9196-1dbc8db70c57.PNG)
