@@ -10,3 +10,4 @@ if cnt == len(before): //증가시켜서 cnt가 before의 길이와 같다면
 answer =1 //answer는 1이 된다.
 answser = 0 //아니면 answer는 0이다.
 return answer /answer를 리턴한다.
+![A로 B만들기](https://user-images.githubusercontent.com/124108940/227780513-dcb136c8-e193-4e49-a83a-38bf8d425ae4.PNG)
